@@ -1,4 +1,4 @@
-### This assingment was pretty tough for me
+### This assignment was pretty tough for me
 ### I think one of the hardest things is just trying to rememeber all of
 ### the code and what it all does.
 ### The page is somewhat boring but I am okay with that right now,
@@ -19,4 +19,4 @@
 ### class, and trying to memorize the code and learn what it all does and use it
 ### correctly. I appreciate the webiste and all the examples and the cheat sheets
 ### however! Without them I would so lost and in tears! YAY for completing this
-### assignment! 
+### assignment!
